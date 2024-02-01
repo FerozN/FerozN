@@ -14,6 +14,7 @@
 
 ## 🌐 Socials:
 
+[![Devpost](https://img.shields.io/badge/Devpost-%23005696?style=flat-square&logo=devpost&logoColor=white)](https://devpost.com/FerozN?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2C2C2C?style=flat-square&logo=hackerrank&logoColor=green)](https://www.hackerrank.com/feroznaeem01)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/FerozN/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/feroznaeem01/)
