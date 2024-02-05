@@ -1,6 +1,4 @@
-# Hi, I'm Feroz Naeem 👋
-
-![Profile views](https://komarev.com/ghpvc/?username=ferozn&label=Profile%20views&color=2b2b2b&style=flat-square)
+# 👋 Hi, I'm Feroz Naeem  ![Profile views](https://komarev.com/ghpvc/?username=ferozn&label=Profile%20views&color=2b2b2b&style=flat-square)
 
 ### ✨ A passionate software engineer from Canada
 
@@ -12,14 +10,14 @@
 - 📄 Check out my resume [here](https://docs.google.com/document/d/1bg_Ylnulw27RKRnn_HbnJDazFJ5eosWgafLB0ZTT9PE/edit?usp=sharing) for reference or feedback!
 - 💼 Open for positions, projects, roles, or opportunities in 2024!
 
-## 🌐 Socials:
+## </🌐 Socials:>
 
 [![Devpost](https://img.shields.io/badge/Devpost-%23005696?style=flat-square&logo=devpost&logoColor=white)](https://devpost.com/FerozN?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2C2C2C?style=flat-square&logo=hackerrank&logoColor=green)](https://www.hackerrank.com/feroznaeem01)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/FerozN/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/feroznaeem01/)
 
-## 💻 Tech Stack:
+## </💻 Tech Stack:>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ferozn&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
@@ -48,13 +46,13 @@
 ![React](https://img.shields.io/badge/react-%2320232a?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC?style=flat-square&logo=typescript&logoColor=white)
 
-## 📊 GitHub Stats:
+## 📊 </GitHub Stats:>
 ![](https://github-readme-stats.vercel.app/api?username=ferozn&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ferozn&theme=dark&hide_border=false)<br/>
 ![](https://github-contributor-stats.vercel.app/api?username=ferozn&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### ✍️ Random Generated Dev Quote
+### </✍️ Random Generated Quote:>
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-### 😂 Random Generated Meme
+### </😂 Random Generated Meme:>
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
