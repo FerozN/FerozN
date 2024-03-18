@@ -45,14 +45,3 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/react-%2320232a?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC?style=flat-square&logo=typescript&logoColor=white)
-
-## 📊 </GitHub Stats:>
-![](https://github-readme-stats.vercel.app/api?username=ferozn&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ferozn&theme=dark&hide_border=false)<br/>
-![](https://github-contributor-stats.vercel.app/api?username=ferozn&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### </✍️ Random Generated Quote:>
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
-### </😂 Random Generated Meme:>
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
