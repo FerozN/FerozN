@@ -8,7 +8,7 @@
 - 👨‍💻 Explore my projects at [https://github.com/FerozN](https://github.com/FerozN)
 - 📫 Reach out to me at [feroznaeem01@gmail.com](mailto:feroznaeem01@gmail.com)
 - 📄 Check out my resume [here](https://docs.google.com/document/d/1bg_Ylnulw27RKRnn_HbnJDazFJ5eosWgafLB0ZTT9PE/edit?usp=sharing) for reference or feedback!
-- 💼 Open for positions, projects, roles, or opportunities in 2024!
+- 💼 Open for positions, projects, roles, or opportunities!
 
 ## </🌐 Socials:>
 
